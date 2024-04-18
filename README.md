@@ -1,5 +1,4 @@
-# KMDC HEALTH CARE : Health Records Management Using Blockchain
-
+# KMDC HEALTH CARE
 
 
 
